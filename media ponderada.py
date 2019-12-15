@@ -11,3 +11,4 @@ for c in range(1, totnotas + 1):
     notafinal += notatot
 media = notafinal / pesotot
 print(f'Sua media é: {media:.2f}')
+#arquivo alterado em 15/12/2019

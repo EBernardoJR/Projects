@@ -62,3 +62,5 @@ while True:
         raio = float(input('Digite o valor do raio: '))
         circulo(raio)
     print('')
+
+    #arquivo alterado

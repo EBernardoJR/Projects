@@ -64,3 +64,4 @@ while True:
     print('')
 
     #arquivo alterado
+    #data da alteração 15/12/2019

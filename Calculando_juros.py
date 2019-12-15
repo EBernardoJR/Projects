@@ -5,3 +5,5 @@ for i, v in enumerate(juros):
     valortot = valor / v
     parcela = valortot / (i + 1)
     print(f'{i + 1}X de {parcela:.2f}. Total: {valortot:.2f}')
+
+#arquivo alterado em 15/12/2019
